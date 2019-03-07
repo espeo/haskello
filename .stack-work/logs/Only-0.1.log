@@ -1,6 +1,0 @@
-Configuring Only-0.1...
-Preprocessing library for Only-0.1..
-Building library for Only-0.1..
-[1 of 1] Compiling Data.Tuple.Only  ( src/Data/Tuple/Only.hs, .stack-work/dist/x86_64-linux/Cabal-2.4.0.1/build/Data/Tuple/Only.o )
-Installing library in /home/streaming/.stack/snapshots/x86_64-linux/lts-13.9/8.6.3/lib/x86_64-linux-ghc-8.6.3/Only-0.1-4eYnxvcrr7tEbYgCvIkHLb
-Registering library for Only-0.1..
